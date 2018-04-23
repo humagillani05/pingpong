@@ -12,7 +12,7 @@ moringaschool
   ## setup requirement
 <li>want to play
 <li>go to
- <a href="file:///C:/Users/lenovo/Documents/ping/pingpong.html">Ping-Pong</a>
+ <a href="https://github.com/humagillani05/pingpong.html">Ping-Pong</a>
 
 
  ## known bugs
